@@ -4,3 +4,5 @@ Instructions:
 3. Run A3Setup.sql to create and populate the table
 4. Test the python program by running 'python COMP3005_Assignment3.py'
 5. Uncomment different functions to test as needed and see the changes in pg
+
+Video Demo Link: https://youtu.be/nZQ-xO__tYU?feature=shared
